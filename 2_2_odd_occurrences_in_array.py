@@ -6,4 +6,3 @@ def solution(A):
         else:
             set_.add(number)
     return set_.pop()
-  
