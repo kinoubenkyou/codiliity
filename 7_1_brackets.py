@@ -11,4 +11,6 @@ def solution(S):
                 return 0
             else:
                 stack.pop()
+    if stack:
+        return 0
     return 1
