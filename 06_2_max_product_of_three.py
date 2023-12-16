@@ -1,4 +1,4 @@
-def solution(A):
+0def solution(A):
     possible_results = set()
     if 0 in A:
         possible_results.add(0)
